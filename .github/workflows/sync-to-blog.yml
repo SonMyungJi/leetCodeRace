@@ -64,7 +64,7 @@ jobs:
         with:
           source-directory: 'output_posts'
           destination-repository-username: 'SonMyungJi'     # 👈 변경 필수
-          destination-repository-name: 'leetCodeRace' # 👈 변경 필수 (예: username.github.io)
+          destination-repository-name: 'SonMyungJi.github.io' # 👈 변경 필수 (예: username.github.io)
           target-branch: 'main'                                     # 👈 블로그 배포 브랜치
           target-directory: '_posts'                                # 👈 블로그 포스트 폴더 (Jekyll은 _posts)
           user-email: 'linolousky@gmail.com'                       # 👈 변경 필수
