@@ -62,7 +62,7 @@ jobs:
         with:
           source-directory: 'output_posts'
           destination-repository-username: 'SonMyungJi'
-          destination-repository-name: 'SonMyungJi.github.io'
+          destination-repository-name: 'sonmyungji.github.io'
           target-branch: 'main'
           target-directory: '_posts'
           user-email: 'linolousky@gmail.com'
