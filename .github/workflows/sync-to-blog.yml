@@ -68,4 +68,5 @@ jobs:
           target-branch: 'main'                                     # 👈 블로그 배포 브랜치
           target-directory: '_posts'                                # 👈 블로그 포스트 폴더 (Jekyll은 _posts)
           user-email: 'linolousky@gmail.com'                       # 👈 변경 필수
+          user-name: '손명지'
           commit-message: 'Feat: Add LeetCode solution from GitHub Actions'
